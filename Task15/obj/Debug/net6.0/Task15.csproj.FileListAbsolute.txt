@@ -1,0 +1,15 @@
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\bin\Debug\net6.0\Task15.exe
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\bin\Debug\net6.0\Task15.deps.json
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\bin\Debug\net6.0\Task15.dll
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\bin\Debug\net6.0\Task15.pdb
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\obj\Debug\net6.0\Task15.dll
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\obj\Debug\net6.0\refint\Task15.dll
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\obj\Debug\net6.0\Task15.pdb
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+E:\РАЗРАБОТЧИК\ДЗ\Знакомство с языками программирования\Homework 20.04\Task\Task15\obj\Debug\net6.0\ref\Task15.dll
